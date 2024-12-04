@@ -1,6 +1,6 @@
 {
   "name": "task-management-dashboard",
-  "homepage": "http://rohit-raj7.github.io/task-anagement", 
+  "homepage": "http://rohit-raj7.github.io/task-managment", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
